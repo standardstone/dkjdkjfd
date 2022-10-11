@@ -26,17 +26,17 @@ git config --list --show-origin
 git config  user.name  
 show jungsuk  
 
-## initialiczinf a repository in an Exsting Directory
+## initializing a repository in an Exsting Directory
 $ git init
 ## checking repository status
 $git status
 ## adding a new file to be staged(trackes)
-$ git add [file_name] 
-$ nano words.txt in university, class, home, new,lecture 
-$ git add. stage all directory 
+$ git add [file_name]   
+$ nano words.txt in university, class, home, new,lecture   
+$ git add. stage all directory     
 
 ## Unstaging a file
-$git rm --cahes[file_name] 
+$git rm --cahes[file_name]  
 $nano  .gitignore(want unstaging file name)  
 
 ## commit 
