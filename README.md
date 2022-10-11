@@ -36,17 +36,17 @@ $ nano words.txt in university, class, home, new,lecture
 $ git add. stage all directory
 
 ## Unstaging a file
-$git rm --cahes[file_name]
-$nano  .gitignore(want unstaging file name)
+$git rm --cahes[file_name] 
+$nano  .gitignore(want unstaging file name) 
 
-##commit
-$git commit -m "commit message"
+## commit 
+$git commit -m "commit message" 
 ## change branch name
+$git branch  
+*master 
+$git branch -m masater main 
 $git branch 
-*master
-$git branch -m masater main
-$git branch
-*main
+*main 
 
 
 
