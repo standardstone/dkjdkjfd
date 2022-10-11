@@ -43,7 +43,7 @@ $nano  .gitignore(want unstaging file name)
 $git commit -m "commit message" 
 ## change branch name 
 $git branch  
-*master 
+*master   
 $git branch -m masater main  
 $git branch 
 *main 
